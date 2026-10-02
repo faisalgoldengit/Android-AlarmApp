@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlarmAppDraftTemp</string>
+    <string name="title_activity_alarm_alert">AlarmAlertActivity</string>
+</resources>
